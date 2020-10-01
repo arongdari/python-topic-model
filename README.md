@@ -23,4 +23,4 @@ Current implementations
 * Hierarchical Dirichlet process
   * Collapsed Gibbs sampling
 * Hierarchical Dirichlet scaling process
-
+Enjoy This Great Project :)
