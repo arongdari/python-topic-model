@@ -1,5 +1,5 @@
-python-topic-model
-==================
+python-topic-model details
+==========================
 
 Implementations of various topic models written in Python. Note that some of the implementations (the models with MCMC) are extremely slow. I do not recommend to use it for large scale datasets.
 
