@@ -23,4 +23,5 @@ Current implementations
 * Hierarchical Dirichlet process
   * Collapsed Gibbs sampling
 * Hierarchical Dirichlet scaling process
+  * Inverse Document Frequency model 
 
